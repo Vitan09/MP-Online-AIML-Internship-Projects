@@ -1,0 +1,21 @@
+Feature,Importance
+num__tenure,0.15311727483028695
+num__TotalCharges,0.14552749239098384
+num__MonthlyCharges,0.12848709202336348
+cat__Contract_Month-to-month,0.12551353974427307
+cat__OnlineSecurity_No,0.0720512262963102
+cat__TechSupport_No,0.06286394634416236
+cat__InternetService_Fiber optic,0.06128864233078659
+cat__PaymentMethod_Electronic check,0.04345017548046644
+cat__Contract_Two year,0.0342935948574787
+cat__OnlineBackup_No,0.02653030063545551
+cat__PaperlessBilling_No,0.02164358636108017
+cat__MultipleLines_No,0.017248886832939035
+cat__DeviceProtection_No,0.015460948388138112
+cat__StreamingMovies_No,0.014666038813517069
+cat__Partner_Yes,0.014249134100524297
+cat__Dependents_Yes,0.013474026696036529
+cat__StreamingTV_No,0.013028371868417156
+num__SeniorCitizen,0.012958193769836998
+cat__gender_Male,0.012315440163420791
+cat__gender_Female,0.01183208807252262
