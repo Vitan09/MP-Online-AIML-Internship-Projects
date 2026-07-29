@@ -1,6 +1,7 @@
 from fastapi import APIRouter, UploadFile, File
 import cv2
 import numpy as np
+import pandas as pd
 
 router = APIRouter(prefix="/vision", tags=["Vision"])
 
